@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+我不知道如何去介绍自己，认知？外表？还是思想？:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 我只是一个默默追求少数派身影，渴求获取新的认知的学徒。
+- 不断迭代自己的认知系统和技能，专注且精简。
 
 What else do you need?
 
-### My story
+### 推荐内容
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- [专栏「闪念与认知」](https://zhuanlan.zhihu.com/p/52957523)
+- [CodeLab冒险记](https://codelab.club/blog/2020/07/09/CodeLab%E5%86%92%E9%99%A9%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/)
