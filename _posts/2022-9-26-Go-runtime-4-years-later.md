@@ -2,9 +2,8 @@
 layout: post
 title: Go runtime：4year later
 subtitle: An overview of the evolution of the go language
-tags: [test]
+tags: [Go]
 readtime:true
-comments: true
 ---
 
 [Reprinted from The Go Blog](https://go.dev/blog/)
