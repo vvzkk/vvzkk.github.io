@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Go runtime：4year later
+title: Go runtime：4 year later
 subtitle: An overview of the evolution of the go language
 tags: [Go]
 readtime:true
 ---
+
 
 [Reprinted from The Go Blog](https://go.dev/blog/)
 
