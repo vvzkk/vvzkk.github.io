@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle: 旅途即是回报，过程即是奖励，行动就是最好的答案。
 ---
 
 我不知道如何去介绍自己，认知？外表？还是思想？:
