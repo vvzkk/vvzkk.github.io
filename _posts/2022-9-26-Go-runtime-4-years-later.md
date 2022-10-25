@@ -3,6 +3,7 @@ layout: post
 title: Go runtime：4year later
 subtitle: An overview of the evolution of the go language
 tags: [test]
+readtime:true
 comments: true
 ---
 
