@@ -6,7 +6,7 @@ tags: [test]
 comments: true
 ---
 
-[The Go Blog**](https://go.dev/blog/)
+[Reprinted from The Go Blog](https://go.dev/blog/)
 
 **Go runtime: 4 years later**
 
@@ -156,6 +156,8 @@ We’re always looking for feedback on how to improve Go, but it also helps to h
 
 [**Blog Index**](https://go.dev/blog/all)
 
+
+Go的GC机制不断的优化而引入内存限制这一点，带来约束也带来更多的可能性，让我们拭目以待
 
 
 来试试内存限制！在生产中使用它！阅读[GC 指南](https://go.dev/doc/gc-guide)！
