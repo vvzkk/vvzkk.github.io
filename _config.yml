@@ -22,9 +22,10 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Visualization: "https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html"
+    - Golang 修养之路: "https://www.yuque.com/aceld/golang/ithv8f"
+    - Go的GC机制剖析: "https://learnku.com/articles/68141"
+  Author's home: "https://vvzkk.com"
 
 ################
 # --- Logo --- #
